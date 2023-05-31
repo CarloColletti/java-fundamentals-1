@@ -67,7 +67,7 @@ public class TrainTicket {
             ticketSale = ( (fullPrise - (fullPrise * rateOlder) / 100) );
             System.out.println("Quindi dei pagare: ");
             System.out.println(ticketSale);
-            ticketPrise= 0;
+
         }
 
     }
